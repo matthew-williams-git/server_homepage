@@ -1,10 +1,11 @@
 /* set page width */
 html {
     width: 500px;
+    color: #E1C699;
 }
 /* Bordered form */
 form {
-    border: 3px solid #f1f1f1;
+    border: 3px solid #523418;
   }
 
   /* Full-width inputs */
