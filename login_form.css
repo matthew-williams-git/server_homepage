@@ -5,9 +5,9 @@ html {
 }
 /* Bordered form */
 form {
-    border: 3px solid #523418;
-    color: #523418;
-    width: 500px;
+    border: 3px solid;
+    background-color: #523418;
+    width: 50%;
     float: right;
   }
 
