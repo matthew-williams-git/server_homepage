@@ -6,7 +6,7 @@
 </head>
 <body>
     <!-- Navigation bar, across the top -->
-    <?php include 'header.html' ?>
+    <?php include 'header.html';?>
     <!-- sign up form (left hand side) -->
     <form action="action_page.php" method="post" style="float: left;">
       <div class="head">
