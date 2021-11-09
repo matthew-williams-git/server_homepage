@@ -1,4 +1,3 @@
-<DOCTYPE! html>
 <head>
     <title>Log in/sign up</title>
     <link rel="stylesheet" href="login_form.css">
