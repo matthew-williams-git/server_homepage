@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<html>
 <head>
     <title>Welcome to Pauls Art shop</title>
     <link rel="stylesheet" href="standard.css">
