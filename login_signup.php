@@ -1,4 +1,3 @@
-<DOCTYPE! html>
 <head>
     <title>Log in/sign up</title>
     <link rel="stylesheet" href="login_form.css">
@@ -6,9 +5,15 @@
 </head>
 <body>
     <!-- Navigation bar, across the top -->
+<<<<<<< HEAD:login_signup.html
     <php 
       include 'header.html';
     >
+=======
+    <?php
+      require('header.html');
+    ?>
+>>>>>>> e3b2d34c8e304f16c4c1703319fd951102a27a12:login_signup.php
     <!-- sign up form (left hand side) -->
     <form action="action_page.php" method="post" style="float: left;">
       <div class="head">

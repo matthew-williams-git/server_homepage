@@ -1,7 +1,7 @@
-<!DOCTYPE html>
 <head>
     <link rel="stylesheet" href="header.css">
 </head>
+<body>
 <ul>
     <li><a href="#home">Home</a></li>
     <li><a href="#store">Store</a></li>
@@ -16,4 +16,3 @@
       </div>
     </li>
 </ul>
-</html>
